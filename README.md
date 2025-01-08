@@ -1,6 +1,6 @@
 ### Projekt studencki w języku Java
 Nie robi nic pożytecznego, ale demonstruje użycie języka Java.
-GUI zrobione Swing'u.
+GUI zrobione w Swing'u.
 
 ### Działanie
 Po uruchomieniu tworzy się okienko z guzikiem.
